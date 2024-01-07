@@ -1,6 +1,6 @@
 # RNAseq_pipeline
 
-Understanding pipelines and protocol analysis on RNA-seq data.
+Understanding pipelines and protocol analysis on RNA-seq bulk data.
 
 ## Tools:
 - FastQC (Win/Linux zip file) https://www.bioinformatics.babraham.ac.uk/projects/download.html#fastqc
